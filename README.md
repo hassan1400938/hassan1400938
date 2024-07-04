@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Muhammad Waqar
+# 👋 Hi there, I'm Hassan
 
 Welcome to my GitHub profile! 😄
 
@@ -18,8 +18,8 @@ I believe that the best way to grow as a developer is through collaboration. I'm
 
 Feel free to reach out to me through the following channels:
 
-- 📧 Email: [waqar@prixosol.com](mailto:waqar@rixosol.com)
-- 💼 LinkedIn: [Muhammad Waqar](https://www.linkedin.com/in/waqar119/)
+- 📧 Email: [waqar@rixosol.com](mailto:waqar@rixosol.com)
+- 💼 LinkedIn: [Waqar](https://www.linkedin.com/in/waqar119/)
 - 🌐 Website: [www.rixosol.com](https://www.rixosol.app)
 
 Let's connect and create some magic in the world of technology! ✨
