@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Hassan
+# 👋 Hi there, I'm Muhammad Waqar
 
 Welcome to my GitHub profile! 😄
 
