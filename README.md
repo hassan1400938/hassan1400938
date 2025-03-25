@@ -10,7 +10,7 @@ I'm a passionate developer with a love for all things tech. My journey in the wo
 
 I'm on a never-ending quest for knowledge, always striving to stay up-to-date with the latest technologies and trends in the ever-evolving tech landscape.
 
-## 💞️ Looking to Collaborate
+## 🙌 Looking to Collaborate
 
 I believe that the best way to grow as a developer is through collaboration. I'm open to working on exciting projects, contributing to open-source, or simply brainstorming ideas with fellow developers. Let's team up and build something amazing together!
 
